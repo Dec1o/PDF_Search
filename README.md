@@ -7,6 +7,9 @@
 O "PDF Search" é uma solução que permite a busca e localização de arquivos PDF locais em alto volume, por meio de palavras-chave. O "PDF Search" utiliza técnicas de processamento de imagens e texto para buscar as palavras-chave nos arquivos PDFs disponíveis dentro diretório especificado pelo usuário, ao final, retorna todos os encontrados de forma clicável, para que o usuário possa acessar os mesmos diretamente da ferramenta (Python TKinter + Tesseract).
 
 
+"PDF Search" is a solution that allows you to search and find local PDF files in high volume using keywords. "PDF Search" uses image and text processing techniques to search for keywords in the PDF files available within the directory specified by the user, in the end, it returns all those found in a clickable form, so that the user can access them directly from the tool (Python TKinter + Tesseract).
+
+
 
 # Bibliotecas Utilizadas:
 
