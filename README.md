@@ -4,7 +4,7 @@
 
 # DOCUMENTAÇÃO PDF Search:
 
-O "PDF Search" é uma ferramenta que permite a busca em arquivos PDF por meio de palavras-chave. Ele utiliza técnicas de processamento de imagens e texto para buscar as palavras-chave nos arquivos PDF disponíveis no diretório especificado pelo usuário.
+O "PDF Search" é uma solução que permite a busca e localização de arquivos PDF locais em alto volume, por meio de palavras-chave. O "PDF Search" utiliza técnicas de processamento de imagens e texto para buscar as palavras-chave nos arquivos PDFs disponíveis dentro diretório especificado pelo usuário, ao final, retorna todos os encontrados de forma clicável, para que o usuário possa acessar os mesmos diretamente da ferramenta (Python TKinter + Tesseract).
 
 
 
